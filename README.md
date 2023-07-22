@@ -1,4 +1,7 @@
 # Stock Price Prediction using LSTM and Time Series Analysis
+<p align=center>
+  <img src=https://github.com/123Satyajeet123/LSTM-stock-prediction-/assets/103361055/6743779d-dbbe-4a71-b799-6be3726e7b07 alt=LSTM model height=300rem>
+</p>
 
 
 ## Overview
